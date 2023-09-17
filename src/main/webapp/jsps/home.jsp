@@ -12,8 +12,8 @@
 <h1 align="center">Welcome to Tesla Web application Dubai23 Project.</h1>
 <h1 align="center">We are developing and supporting quality Software Solutions to millions of clients globally.
 	           We are raising millionaires in IT automation.
-	We offer Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.
-	Class34 will start on October 15, 2023. And Miguel Agbodjinou is the next Devops Engineer. </h1>
+	We offer Training for DevOps with Linux, Kubernetes and Cloud, equipping IT Engineers for best performance.
+	Class34 will start on October 15, 2023. And Miguel Agbodjinou will the next successful Devops Engineer. </h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
