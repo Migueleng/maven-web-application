@@ -10,7 +10,7 @@ node{
     stage('2.mvnBuild'){
         sh " ${mavenHome}/bin/mvn package"
     }
-   
+   /*
     stage('3.CodeQuality'){
     //sh "${mavenHome}/bin/mvn sonar:sonar"
     //edit pom.xml propertiesTAG with SonarQube server details    
@@ -38,6 +38,7 @@ node{
         sh "echo 'monitoring and observation and alerting' "
         sh "echo 'application performance Monitoring in progress' "
     }
+*/
     stage('9.emailNotification'){
         sh "echo 'notify the team for unusual accurances' "
         sh "echo 'notify the team if the applications are down' "
