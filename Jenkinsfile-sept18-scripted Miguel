@@ -10,7 +10,7 @@ node{
     stage('2.mvnBuild'){
         sh " ${mavenHome}/bin/mvn clean package"
     }
-   
+/*   
     stage('3.CodeQuality'){
     //sh "${mavenHome}/bin/mvn sonar:sonar"
     //edit pom.xml propertiesTAG with SonarQube server details    
@@ -49,4 +49,6 @@ The build and Deployment status for tesla-app follows
 Regards,
 Miguel Technologies ''', recipientProviders: [buildUser(), contributor(), developers()], subject: 'build and deployment status', to: 'mltd1985@hotmail.com'
         }
-    }
+*/
+}
+
